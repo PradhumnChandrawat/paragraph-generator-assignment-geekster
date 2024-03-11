@@ -1,0 +1,45 @@
+
+.App {
+  font-family: "Arial", sans-serif;
+  background-color: #faebd7;
+  color: #333;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.header h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.generator {
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.generator label {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.generator input {
+  font-size: 24px;
+  padding: 5px 10px;
+  width: 60px;
+}
+
+.generator button {
+  font-size: 24px;
+  padding: 5px 20px;
+  background-color: #f4a460;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.content p {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto 20px auto;
+}
